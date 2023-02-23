@@ -1,1 +1,2 @@
 The first document of git.
+The first time of amendament.
